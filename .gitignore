@@ -1,0 +1,7 @@
+function/__pycache__
+Include
+Lib
+Scripts
+model/__pycache__
+.env
+pyvenv.cfg
